@@ -22,6 +22,17 @@ The shortest length of the integer's non-squarish factoring.
 
 ## Examples
 
+<span align="right">
+foo
+adsasd
+
+adasd
+
+</span>
+<span align="left">
+bar
+</span>
+
 | | Example 1  | Example 2 |
 | :-: | --- | --- |
 | **Input**  | [input](tests/0.in)  | [input](tests/1.in)  |
