@@ -1,4 +1,4 @@
-# No squares
+# No squares2
 
 ![](https://imgs.xkcd.com/comics/factoring_the_time.png)
 <img align="right" src="https://imgs.xkcd.com/comics/factoring_the_time.png" title="I occasionally do this with mile markers on the highway." alt="Factoring the Time" height="300">
