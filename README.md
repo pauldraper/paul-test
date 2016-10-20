@@ -22,7 +22,14 @@ The shortest length of the integer's non-squarish factoring.
 
 ## Examples
 
-| | Example 1  | Example 2 |
-| :-: | --- | --- |
-| **Input**  | [input](tests/0.in)  | [input](tests/1.in)  |
-| **Output** | [output](tests/0.out)  | [output](tests/1.out)  |
+### Input 1
+
+```
+24
+```
+
+### Output 1
+
+```
+3
+```
