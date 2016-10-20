@@ -1,6 +1,4 @@
-
-<img align="right" src="https://imgs.xkcd.com/comics/factoring_the_time.png" title="I occasionally do this with mile markers on the highway." alt="Factoring the Time" height="300" style="float:right">
-
+<img align="right" src="https://imgs.xkcd.com/comics/factoring_the_time.png" title="I occasionally do this with mile markers on the highway." alt="Factoring the Time" height="300">
 
 ## Description
 
@@ -21,17 +19,6 @@ An integer between 2 and 2,000,000 inclusive.
 The shortest length of the integer's non-squarish factoring.
 
 ## Examples
-
-<span align="right">
-foo
-adsasd
-
-adasd
-
-</span>
-<span align="left">
-bar
-</span>
 
 | | Example 1  | Example 2 |
 | :-: | --- | --- |
