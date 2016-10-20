@@ -10,7 +10,7 @@ A **square** is an integer that can be factored as two equal integers. For examp
 
 If a factoring has any factor that is divisible by a square greater than 1, let's call it **squarish**. For example, since 4 is a square, five of the factorings of 24 are squarish: 24, 2×12, 3×8, 4×6, and 2×3×4. That leaves two non-squarish factorings: 2×2×6 and 2×2×2×3.
 
-Given a postive integer, find the shortest possible length of a non-squarish factoring. For example, for 12 the shortest possible length is 2.
+Given a postive integer, find the shortest possible length of a non-squarish factoring. For example, for 24, the shortest possible length is three (2×2×6).
 
 ## Input
 
